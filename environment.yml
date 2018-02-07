@@ -8,4 +8,4 @@ dependencies:
 - pyshp
 - notebook
 - ipywidgets >=5.2.2,<7
-- widgetsnvextension >=1.2.6,<3
+- widgetsnbextension >=1.2.6,<3
