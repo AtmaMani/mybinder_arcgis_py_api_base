@@ -13,8 +13,4 @@ This repository acts as a proof of concept for binder deployments on mybinder.or
 
 ## Example Binder
 
-The above steps were followed for this repository, resulting in [this URL](https://mybinder.org/v2/gh/DavidJVitale/mybinder_arcgis_py_api_base.git/master)
-
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/DavidJVitale/mybinder_arcgis_py_api_base.git/master)
-
-.. image:: https://mybinder.org/badge.svg :target: https://mybinder.org/v2/gh/DavidJVitale/mybinder_arcgis_py_api_base.git/master
+The above steps were followed for this repository, resulting in this binder: [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/DavidJVitale/mybinder_arcgis_py_api_base.git/master)
