@@ -1,0 +1,11 @@
+name: mybinder_arcgis_py_api_base
+channels:
+- defaults
+dependencies:
+- arcgis
+- matplotlib
+- numpy
+- pyshp
+- notebook
+- ipywidgets >=5.2.2,<7
+- widgetsnvextension >=1.2.6,<3
